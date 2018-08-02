@@ -14,6 +14,6 @@ class Backer
     @backers << backer
   end   
     
-  end   
+    
   
 end   
